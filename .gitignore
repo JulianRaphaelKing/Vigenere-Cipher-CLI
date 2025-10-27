@@ -1,0 +1,11 @@
+# binaries
+vigenere
+vigenere.exe
+
+# mac debug folders
+*.dSYM/
+
+# generated sample/output files
+test_plain.txt
+test_encrypted.txt
+test_decrypted.txt
