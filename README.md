@@ -125,4 +125,4 @@ Lxfopv ef rnhr!
 ---
 
 ## License
-MIT 
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it for personal or commercial purposes. See the full license text in the `LICENSE` file for more details.
